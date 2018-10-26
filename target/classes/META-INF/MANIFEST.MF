@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: budai
+Build-Jdk: 10.0.1
+Implementation-Title: spring-reservations
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.training
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-reser
+ vations/
+Created-By: Maven Integration for Eclipse
+
